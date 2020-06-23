@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/tekken/static/css/main.3aedaf8b.chunk.css",
+    "main.js": "/tekken/static/js/main.544a491f.chunk.js",
+    "main.js.map": "/tekken/static/js/main.544a491f.chunk.js.map",
+    "runtime-main.js": "/tekken/static/js/runtime-main.1c22dde1.js",
+    "runtime-main.js.map": "/tekken/static/js/runtime-main.1c22dde1.js.map",
+    "static/js/2.eee15ee3.chunk.js": "/tekken/static/js/2.eee15ee3.chunk.js",
+    "static/js/2.eee15ee3.chunk.js.map": "/tekken/static/js/2.eee15ee3.chunk.js.map",
+    "index.html": "/tekken/index.html",
+    "precache-manifest.d493ed70ba9e38666da9f8c14bb54eb6.js": "/tekken/precache-manifest.d493ed70ba9e38666da9f8c14bb54eb6.js",
+    "service-worker.js": "/tekken/service-worker.js",
+    "static/css/main.3aedaf8b.chunk.css.map": "/tekken/static/css/main.3aedaf8b.chunk.css.map",
+    "static/js/2.eee15ee3.chunk.js.LICENSE.txt": "/tekken/static/js/2.eee15ee3.chunk.js.LICENSE.txt",
+    "static/media/Anna Williams.jpg": "/tekken/static/media/Anna Williams.2de86cf4.jpg",
+    "static/media/Bryan Fury.jpg": "/tekken/static/media/Bryan Fury.783f62d5.jpg",
+    "static/media/Dr. Bosconovitch.jpg": "/tekken/static/media/Dr. Bosconovitch.a65f646d.jpg",
+    "static/media/Eddy Gordo.jpg": "/tekken/static/media/Eddy Gordo.53532f0f.jpg",
+    "static/media/Gun Jack.jpg": "/tekken/static/media/Gun Jack.7e946642.jpg",
+    "static/media/Heihachi Mishima.jpg": "/tekken/static/media/Heihachi Mishima.879b871d.jpg",
+    "static/media/Hwoarang.jpg": "/tekken/static/media/Hwoarang.448cb49e.jpg",
+    "static/media/Jin Kazama.png": "/tekken/static/media/Jin Kazama.3db5e40c.png",
+    "static/media/Julia Chang.png": "/tekken/static/media/Julia Chang.0a9633bb.png",
+    "static/media/King.jpg": "/tekken/static/media/King.4b557de0.jpg",
+    "static/media/Kuma.jpg": "/tekken/static/media/Kuma.3944c40e.jpg",
+    "static/media/Lei Wulong.jpg": "/tekken/static/media/Lei Wulong.abe510f6.jpg",
+    "static/media/Ling Xiaoyu.jpg": "/tekken/static/media/Ling Xiaoyu.d055a985.jpg",
+    "static/media/Marshall Law.jpg": "/tekken/static/media/Marshall Law.be2978bf.jpg",
+    "static/media/Mokujin.jpg": "/tekken/static/media/Mokujin.721178ff.jpg",
+    "static/media/Nina Williams.jpg": "/tekken/static/media/Nina Williams.7fa55568.jpg",
+    "static/media/Ogre.jpg": "/tekken/static/media/Ogre.e9f0db9d.jpg",
+    "static/media/Paul Phoenix.jpg": "/tekken/static/media/Paul Phoenix.ae23964e.jpg",
+    "static/media/True Ogre.jpg": "/tekken/static/media/True Ogre.f051e40c.jpg",
+    "static/media/Yoshimitsu.jpg": "/tekken/static/media/Yoshimitsu.05ab0b17.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c22dde1.js",
+    "static/js/2.eee15ee3.chunk.js",
+    "static/css/main.3aedaf8b.chunk.css",
+    "static/js/main.544a491f.chunk.js"
+  ]
+}
